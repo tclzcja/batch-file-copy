@@ -1,0 +1,13 @@
+{
+	"name": "batch-file-copy",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tclzcja/batch-file-copy.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"type": "module",
+	"bin": "index.js"
+}
