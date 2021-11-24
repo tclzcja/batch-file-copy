@@ -11,6 +11,6 @@ npm i -g tclzcja/batch-file-copy
 # Usage
 
 ```
-cd .\folderContainsImages\
+cd .\emptyFolder\
 batch-file-copy c:\otherFolderToImport\
 ```
